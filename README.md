@@ -1,4 +1,4 @@
 # ESP32 Tutorials
 
-##online resources
+## online resources
 [microcontroller lab.com](https://microcontrollerslab.com)
